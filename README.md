@@ -14,7 +14,7 @@ The baseline approach that predicts the next character based solely on the previ
 *   **Method B (Neural):** A single-layer neural network (Linear layer + Softmax) that learns the same probability distribution via gradient descent.
 *   **Result:** A simple model with high loss (~2.45), often generating gibberish but capturing basic pairs like "qu".
 
-### 2. Multi-Layer Perceptron (MLP) (`Generate_Word_MLP.ipynb`)
+### 2. Multi-Layer Perceptron (MLP) (`MLP_Model.ipynb`)
 A more advanced neural network based on Bengio et al. (2003) that uses a larger context window (3 characters) to predict the next one.
 *   **Embedding Layer:** Maps characters to a 10-dimensional vector space to capture similarity (e.g., vowels cluster together).
 *   **Hidden Layer:** A `Tanh` activation layer with 200 neurons for non-linearity.
