@@ -1,4 +1,4 @@
-# The Name Giver: Character-Level Language Models
+# Name Generator: Character-Level Language Models
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/YOUR_NOTEBOOK_LINK_HERE](https://colab.research.google.com/drive/1oqwxt_Uu3YLr6_A-xmggvfqGHCf5zsS0#scrollTo=6vAyxwx6P78O))
 
